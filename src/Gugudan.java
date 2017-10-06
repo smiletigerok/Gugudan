@@ -2,8 +2,9 @@ import java.util.Scanner;
 
 public class Gugudan {
 	public static void main(String[] args) {
+		
 		// 8, 9단
-		System.out.print("구구단중 출력할 단은? : ");
+		/*System.out.print("구구단중 출력할 단은? : ");
 		Scanner scanner = new Scanner(System.in);
 		int number = scanner.nextInt();
 		System.out.println("사용자가 입력한 값 : " + number + "단");
@@ -17,7 +18,7 @@ public class Gugudan {
 				System.out.println(number * i);
 			}
 		}
-		
+		*/
 		
 		// 6단
 //		int i=1;
